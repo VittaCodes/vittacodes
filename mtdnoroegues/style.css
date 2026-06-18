@@ -2,3 +2,8 @@
 text-align: center;
 background-color: grey;
 }
+
+.login{
+    text-align: center;
+    padding: 50%;
+}
